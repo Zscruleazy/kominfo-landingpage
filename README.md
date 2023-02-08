@@ -1,3 +1,3 @@
-# kominfo-landingpage
+# landingpage
 
-Landing page Kominfo versi wibu
+Landing wibu
